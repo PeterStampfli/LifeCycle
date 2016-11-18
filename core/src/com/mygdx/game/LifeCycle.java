@@ -40,7 +40,7 @@ public class LifeCycle extends ApplicationAdapter {
 		font.getData().setScale(lineHeight/basicFontSize);
 	}
 
-	
+
 	@Override
 	public void render () {
 		String message="render (multiple)";
